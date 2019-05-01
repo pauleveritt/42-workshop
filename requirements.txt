@@ -1,0 +1,6 @@
+-e .
+dataclasses
+venusian
+pytest
+coverage
+git+https://github.com/pauleveritt/wired.git@dataclasses#egg=wired
