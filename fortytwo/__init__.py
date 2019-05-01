@@ -2,12 +2,8 @@ import venusian
 from wired import ServiceRegistry
 
 from fortytwo import models
+# noinspection PyUnresolvedReferences
 from fortytwo.models import Greeter
-
-__all__ = [
-    'App',
-    'Greeter'
-]
 
 
 class App:

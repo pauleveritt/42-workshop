@@ -8,6 +8,6 @@ from wired.dataclasses import factory
 class Greeter:
     name: str = 'Mary'
 
-    def __call__(self, customer):
+    def __call__(self, customer: str) -> str:
         msg = 'Hello {customer} my name is {name}'
         return msg.format(customer=customer, name=self.name)
