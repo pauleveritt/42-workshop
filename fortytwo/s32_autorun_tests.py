@@ -1,16 +1,11 @@
-"""30: Split Screen Without Tabs
+"""32: Auto-Run Tests
 
-Get your code and tests side-by-side without resorting to tabs.
+Get into testing mode by telling PyCharm to automatically
+re-run tests as you type.
 
-- Side-by-side without tabs
+- Click the auto-test button and click Play
 
-- Split Vertically
-
-- Alt-Tab to go to next splitter
-
-- Open ``tests/test_examples.py``
-
-- Run tests
+- Make a change that causes failure
 
 Repo: https://github.com/pauleveritt/42-workshop
 Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/

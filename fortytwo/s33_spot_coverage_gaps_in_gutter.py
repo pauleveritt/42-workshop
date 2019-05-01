@@ -1,16 +1,8 @@
-"""30: Split Screen Without Tabs
+"""33: Spot Coverage Gaps Using the Gutter
 
-Get your code and tests side-by-side without resorting to tabs.
+Let the IDE help you spot coverage gaps in your testing.
 
-- Side-by-side without tabs
 
-- Split Vertically
-
-- Alt-Tab to go to next splitter
-
-- Open ``tests/test_examples.py``
-
-- Run tests
 
 Repo: https://github.com/pauleveritt/42-workshop
 Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/
@@ -18,6 +10,11 @@ Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/
 
 from fortytwo import App
 from fortytwo.models import Greeter
+
+
+def foo():
+    x = 1
+    return x
 
 
 def main():

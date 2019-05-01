@@ -25,6 +25,7 @@ def main():
             customer = choice(customers)
             greeting = greeter(customer)
             print(greeting)
+        return greeting  # The last one
 
 
 if __name__ == '__main__':

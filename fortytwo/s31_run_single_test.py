@@ -1,16 +1,8 @@
-"""30: Split Screen Without Tabs
+"""31: Run Single Test
 
-Get your code and tests side-by-side without resorting to tabs.
+Speed up testing by focusing on one test.
 
-- Side-by-side without tabs
-
-- Split Vertically
-
-- Alt-Tab to go to next splitter
-
-- Open ``tests/test_examples.py``
-
-- Run tests
+- Right-click in the test body, gutter click, filename, etc.
 
 Repo: https://github.com/pauleveritt/42-workshop
 Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/

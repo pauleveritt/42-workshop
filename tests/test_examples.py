@@ -113,7 +113,7 @@ def test_20():
 
 def test_21():
     from fortytwo.s21_install_and_import import main
-    assert EXPECTED == main()
+    assert 'Mary' in main()
 
 
 def test_22():
@@ -131,16 +131,6 @@ def test_24():
     assert EXPECTED == main()
 
 
-def test_25():
-    from fortytwo.s25_quick_documentation import main
-    assert EXPECTED == main()
-
-
-def test_26():
-    from fortytwo.s26_view_parameter_info import main
-    assert EXPECTED == main()
-
-
 def test_27():
     from fortytwo.s27_run_from_keyboard import main
     assert EXPECTED == main()
@@ -148,16 +138,34 @@ def test_27():
 
 def test_28():
     from fortytwo.s28_conditional_breakpoints import main
-    assert EXPECTED == main()
+    assert 'Mary' in main()
 
 
 def test_29():
     from fortytwo.s29_evaluate_expression import main
+    assert 'Mary' in main()
+
+
+def test_30():
+    from fortytwo.s30_split_screen import main
     assert EXPECTED == main()
 
+
+def test_31():
+    from fortytwo.s31_run_single_test import main
+    assert EXPECTED == main()
+
+
+def test_32():
+    from fortytwo.s32_autorun_tests import main
+    assert EXPECTED == main()
+
+
+def test_33():
+    from fortytwo.s33_spot_coverage_gaps_in_gutter import main
+    assert EXPECTED == main()
 
 # def test_3():
 #     from fortytwo.s3 import main
 #     assert EXPECTED == main()
 #
-
