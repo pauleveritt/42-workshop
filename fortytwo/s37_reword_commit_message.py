@@ -1,10 +1,14 @@
-"""33: Spot Coverage Gaps Using the Gutter
+"""37: Reword Commit Message
 
-Let the IDE help you spot coverage gaps in your testing.
+Change the wording in your last commit message, after you
+committed.
 
-- Run tests, but under coverage
+- When you haven't pushed yet
 
-- Spot the gap in ``foo``
+- Do a commit with a typo
+
+- Version Control | Log, right-click on commit, choose
+  ``Reword``
 
 Repo: https://github.com/pauleveritt/42-workshop
 Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/
@@ -12,11 +16,6 @@ Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/
 
 from fortytwo import App
 from fortytwo.models import Greeter
-
-
-def foo():
-    x = 1
-    return x
 
 
 def main():

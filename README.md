@@ -26,6 +26,8 @@ This workshop's examples use dataclasses. If you are Python 3.6, this repo's `re
     
 - Have the [42 PyCharm Tips and Tricks playlist](https://www.jetbrains.com/pycharm/guide/playlists/42/) open to follow along
 
+- **Start on a branch**
+
 # Usage
 
 - This project has a `fortytwo` package that can be imported

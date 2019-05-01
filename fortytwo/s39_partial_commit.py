@@ -1,10 +1,13 @@
-"""33: Spot Coverage Gaps Using the Gutter
+"""39: Only Commit Some Changes
 
-Let the IDE help you spot coverage gaps in your testing.
+Unselect files or changed regions within files during the commit
+process.
 
-- Run tests, but under coverage
+- Commit
 
-- Spot the gap in ``foo``
+- De-select some files, remove chunks from some files
+
+- Commit
 
 Repo: https://github.com/pauleveritt/42-workshop
 Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/
@@ -12,11 +15,6 @@ Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/
 
 from fortytwo import App
 from fortytwo.models import Greeter
-
-
-def foo():
-    x = 1
-    return x
 
 
 def main():

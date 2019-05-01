@@ -1,10 +1,11 @@
-"""33: Spot Coverage Gaps Using the Gutter
+"""36: Put New Project Under Version Control
 
-Let the IDE help you spot coverage gaps in your testing.
+The fastest way to register a new project directory under local
+version control.
 
-- Run tests, but under coverage
+- Open an uninitialized project
 
-- Spot the gap in ``foo``
+- Find Action then speed search for ``en ve co ``
 
 Repo: https://github.com/pauleveritt/42-workshop
 Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/
@@ -12,11 +13,6 @@ Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/
 
 from fortytwo import App
 from fortytwo.models import Greeter
-
-
-def foo():
-    x = 1
-    return x
 
 
 def main():

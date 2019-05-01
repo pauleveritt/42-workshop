@@ -1,10 +1,13 @@
-"""33: Spot Coverage Gaps Using the Gutter
+"""40: Run npm Scripts from package.json
 
-Let the IDE help you spot coverage gaps in your testing.
+Browse your package.json scripts and run in a dedicated tool
+window.
 
-- Run tests, but under coverage
+- Right-click on ``package.json`` and select ``Show npm scripts``
 
-- Spot the gap in ``foo``
+- Close that panel, re-do from ``Recent Files``
+
+- Find Action | ``run ser``
 
 Repo: https://github.com/pauleveritt/42-workshop
 Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/
@@ -12,11 +15,6 @@ Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/
 
 from fortytwo import App
 from fortytwo.models import Greeter
-
-
-def foo():
-    x = 1
-    return x
 
 
 def main():

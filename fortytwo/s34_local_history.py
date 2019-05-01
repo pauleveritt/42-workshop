@@ -1,10 +1,10 @@
-"""33: Spot Coverage Gaps Using the Gutter
+"""34: Use Local History to Avoid Disaster
 
-Let the IDE help you spot coverage gaps in your testing.
+Use the IDE's built-in history facility to recover changes when VCS can't help you.
 
-- Run tests, but under coverage
+- Delete main, use Show History to restore
 
-- Spot the gap in ``foo``
+- Delete ``models.py``, use Show History to restore
 
 Repo: https://github.com/pauleveritt/42-workshop
 Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/
@@ -12,11 +12,6 @@ Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/
 
 from fortytwo import App
 from fortytwo.models import Greeter
-
-
-def foo():
-    x = 1
-    return x
 
 
 def main():

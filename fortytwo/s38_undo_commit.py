@@ -1,10 +1,10 @@
-"""33: Spot Coverage Gaps Using the Gutter
+"""38: Undo Last Commit
 
-Let the IDE help you spot coverage gaps in your testing.
+Easily and visually recover from a commit-in-error.
 
-- Run tests, but under coverage
+- When you haven't pushed yet
 
-- Spot the gap in ``foo``
+- Undo that last commit, into the ``Default Changelist``
 
 Repo: https://github.com/pauleveritt/42-workshop
 Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/
@@ -12,11 +12,6 @@ Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/
 
 from fortytwo import App
 from fortytwo.models import Greeter
-
-
-def foo():
-    x = 1
-    return x
 
 
 def main():

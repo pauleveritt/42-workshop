@@ -1,10 +1,10 @@
-"""33: Spot Coverage Gaps Using the Gutter
+"""35: Create a Project from GitHub
 
-Let the IDE help you spot coverage gaps in your testing.
+Let PyCharm do the work to clone and setup a project hosted on GitHub.
 
-- Run tests, but under coverage
+- Via ``VCS | Checkout from Version Control | Git``
 
-- Spot the gap in ``foo``
+- Or via Find Action ``ch ve``
 
 Repo: https://github.com/pauleveritt/42-workshop
 Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/
@@ -12,11 +12,6 @@ Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/
 
 from fortytwo import App
 from fortytwo.models import Greeter
-
-
-def foo():
-    x = 1
-    return x
 
 
 def main():

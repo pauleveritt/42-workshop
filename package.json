@@ -1,0 +1,23 @@
+{
+  "name": "42-workshop",
+  "version": "1.0.0",
+  "description": "Workshop material for 42 PyCharm Tips and Tricks, based on the [PyCharm Guide playlist](https://www.jetbrains.com/pycharm/guide/playlists/42/). Follow along at that URl. The material here is organized to match that sequence.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "serve": "python3 -m http.server 8088"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauleveritt/42-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pauleveritt/42-workshop/issues"
+  },
+  "homepage": "https://github.com/pauleveritt/42-workshop#readme"
+}

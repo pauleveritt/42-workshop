@@ -1,10 +1,15 @@
-"""33: Spot Coverage Gaps Using the Gutter
+"""42: Create SQLite Database Connection By Drag-and-Drop
 
-Let the IDE help you spot coverage gaps in your testing.
+Drag-and-drop a .sqlite database file onto the Database tool to
+create a connection.
 
-- Run tests, but under coverage
+- Open ``Database`` tool window
 
-- Spot the gap in ``foo``
+- Drag-and-drop ``sample_db.sqlite`` from root
+
+- Expand schema
+
+- Browse table
 
 Repo: https://github.com/pauleveritt/42-workshop
 Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/
@@ -12,11 +17,6 @@ Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/
 
 from fortytwo import App
 from fortytwo.models import Greeter
-
-
-def foo():
-    x = 1
-    return x
 
 
 def main():
