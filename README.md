@@ -30,7 +30,9 @@ This workshop's examples use dataclasses. If you are Python 3.6, this repo's `re
 
 - This project has a `fortytwo` package that can be imported
 
-- Each playlist step has a subdir with a number, which can also be imported
+- Each playlist step has a module with a number plus description as filename
 
-- Open the `__init__.py` for the step, read the comments at the top, follow along
+- Open the module for the step, read the docstring at the top, follow along
+
+- This module can be run by clicking the green gutter play button beside the "run block" at the bottom
 
