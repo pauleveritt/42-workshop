@@ -2,11 +2,17 @@
 
 Workshop material for 42 PyCharm Tips and Tricks, based on the [PyCharm Guide playlist](https://www.jetbrains.com/pycharm/guide/playlists/42/). Follow along at that URl. The material here is organized to match that sequence.
 
+- This repo: https://github.com/pauleveritt/42-workshop
+
+- Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/
+
 # Install
 
 - Virtual environment based on Python 3.6+
 
-- `$ pip install -e[.]`
+    - `$ python3 -m venv .venv`
+
+- `$ .venv/bin/pip install -r requirements.txt`
 
 #### Note
 
