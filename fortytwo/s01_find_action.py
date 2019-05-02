@@ -8,7 +8,7 @@ Skip memorizing keyboard shortcuts and speed search for actions instead.
 
 - Speed type
 
-- Also for preferences
+- Also for preferences, e.g. `imports`
 
 Repo: https://github.com/pauleveritt/42-workshop
 Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/
