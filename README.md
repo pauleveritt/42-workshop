@@ -1,6 +1,6 @@
 # 42-workshop
 
-Workshop material for 42 PyCharm Tips and Tricks, based on the [PyCharm Guide playlist](https://www.jetbrains.com/pycharm/guide/playlists/42/). Follow along at that URl. The material here is organized to match that sequence.
+Workshop material for 42 PyCharm Tips and Tricks, based on the [PyCharm Guide playlist](https://www.jetbrains.com/pycharm/guide/playlists/42/). Follow along at that URL. The material here is organized to match that sequence.
 
 - This repo: https://github.com/pauleveritt/42-workshop
 
@@ -42,5 +42,5 @@ This workshop's examples use dataclasses. If you are Python 3.6, this repo's `re
 
 - Open the module for the step, read the docstring at the top, follow along
 
-- This module can be run by clicking the green gutter play button beside the "run block" at the bottom
+- Each module can be run by clicking the green gutter play button beside the "run block" at the bottom
 
