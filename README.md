@@ -34,6 +34,8 @@ This workshop's examples use dataclasses. If you are Python 3.6, this repo's `re
 
 - **Start on a branch**
 
+- We're showing the default keymap on macOS
+
 # Usage
 
 - This project has a `fortytwo` package that can be imported
@@ -43,4 +45,10 @@ This workshop's examples use dataclasses. If you are Python 3.6, this repo's `re
 - Open the module for the step, read the docstring at the top, follow along
 
 - Each module can be run by clicking the green gutter play button beside the "run block" at the bottom
+
+# After
+
+- Delete ``maya`` as installed package
+
+- Disconnect database
 
