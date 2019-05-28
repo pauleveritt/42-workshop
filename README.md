@@ -16,7 +16,7 @@ Workshop material for 42 PyCharm Tips and Tricks, based on the [PyCharm Guide pl
 
 #### Note
 
-This workshop's examples use dataclasses. If you are Python 3.6, this repo's `requirements.txt` includes the [`dataclasses` backport](https://pypi.org/project/dataclasses/).
+This workshop's examples use dataclasses. If you are using Python 3.6, this repo's `requirements.txt` includes the [`dataclasses` backport](https://pypi.org/project/dataclasses/).
 
 # Starting Point
 
