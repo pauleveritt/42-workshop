@@ -6,7 +6,7 @@ Avoid interruption by letting PyCharm generate your imports as you type.
 
 - Delete 'Larry'
 
-- Type ``choic`` and ``Ctrl-Enter-Enter``
+- Type ``choic`` and ``Ctrl-Space-Space``
 
 - Or, type ``choice`` and ``Alt-Enter``
 
