@@ -3,4 +3,4 @@ dataclasses
 venusian
 pytest
 coverage
-git+https://github.com/pauleveritt/wired.git
+wired
