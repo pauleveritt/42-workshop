@@ -2,9 +2,9 @@
 
 Easily and visually recover from a commit-in-error.
 
-- When you haven't pushed yet
+- VCS -> Log -> Select an un-pushed commit
 
-- Undo that last commit, into the ``Default Changelist``
+- ``Undo Commit``, into the ``Default Changelist``
 
 Repo: https://github.com/pauleveritt/42-workshop
 Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/

@@ -5,7 +5,11 @@ re-run tests as you type.
 
 - Click the auto-test button and click Play
 
-- Make a change that causes failure
+- Change ``test_32`` that causes failure
+
+- Fix, don't save...still runs
+
+- Configurable delay
 
 Repo: https://github.com/pauleveritt/42-workshop
 Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/

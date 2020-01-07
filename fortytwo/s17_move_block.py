@@ -4,10 +4,12 @@ Use the keyboard to move a line or selection up or down in your file.
 
 - The ``customer`` definition doesn't need to be in block
 
-- Use keyboard to make/extend selection
+- Dumb way: select line, cut, paste
 
-- Use Move Line Up
+- Single-line: Use Move Line Up
   (Shift-Alt-Up/Down Win/Linux, Alt-Shift-Up/Down macOS)
+
+- Block: Use keyboard to make/extend selection, then same
 
 Repo: https://github.com/pauleveritt/42-workshop
 Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/

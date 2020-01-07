@@ -1,5 +1,7 @@
 """42: Create SQLite Database Connection By Drag-and-Drop
 
+*Note: Uses PyCharm Professional*
+
 Drag-and-drop a .sqlite database file onto the Database tool to
 create a connection.
 

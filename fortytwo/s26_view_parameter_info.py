@@ -4,6 +4,10 @@ Quickly see function arguments and argument types.
 
 - ``choices`` is weird, what does it want?
 
+- Put cursor in ``choices()`` and do Cmd-P to see parameter list
+
+    - Type ``customers`` to see bold change to current parameter
+
 Repo: https://github.com/pauleveritt/42-workshop
 Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/
 """

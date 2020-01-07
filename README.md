@@ -52,3 +52,17 @@ This workshop's examples use dataclasses. If you are using Python 3.6, this repo
 
 - Disconnect database
 
+# Presenter
+
+- Start with tabs, tool bar, tool window bars, navigation bar, etc.
+
+- Presentation Assistant turned on
+
+- Good sized font
+
+- On a branch
+
+- Default theme
+
+- Make sure ``maya`` package isn't installed
+

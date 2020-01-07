@@ -4,7 +4,7 @@ Jump to a file without using the Project Tool and your mouse.
 
 - Navigate to File (Shift-Ctrl-N Win/Linux, Shift-Cmd-O macOS)
 
-- Look for ``01``
+- Look for ``s01``...opens file with cursor on last location
 
 - Look for `fo/mo` to get ``fortytwo/models.py``
 

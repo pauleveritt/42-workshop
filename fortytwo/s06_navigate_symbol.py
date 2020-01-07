@@ -8,6 +8,8 @@ Navigate your project by code, not files.
 
 - Navigate by Symbol (Shift-Ctrl-Alt-N Win/Linux, Alt-Cmd-O macOS)
 
+- Recent Files to get back
+
 - Also goes into dependencies, e.g. `SerReg` for `wired.ServiceRegistry`
 
 - As that shows, CamelHump also works

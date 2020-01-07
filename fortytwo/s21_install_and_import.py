@@ -4,7 +4,9 @@ While typing a symbol, let PyCharm install it and generate the import.
 
 - Cursor on maya
 
-- Alt-Enter
+- Alt-Enter -> Install and import
+
+- Then, quick fix to add to requirements.txt
 
 Repo: https://github.com/pauleveritt/42-workshop
 Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/

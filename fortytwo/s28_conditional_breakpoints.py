@@ -6,6 +6,10 @@ Speed up your debugging by stopping execution only when you want to.
 
 - *only* when it is ``Larry``
 
+- Breakpoint on line 26...``Continue``...cumbersome
+
+- Instead, conditional breakpoint: ``customer == 'Larry'``
+
 Repo: https://github.com/pauleveritt/42-workshop
 Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/
 """
@@ -14,7 +18,7 @@ from random import choice
 from fortytwo import App
 from fortytwo.models import Greeter
 
-customers = ('Larry', 'Alice', 'Sam')
+customers = ('Larry', 'Alice', 'Sam', 'Juanita', 'Mei')
 
 
 def main():

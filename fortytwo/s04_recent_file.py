@@ -8,7 +8,7 @@ Use Recent Files to quickly jump to last-visited file.
 
 - Cursor keys
 
-- Or speed search
+- Or speed search to filter the Recent Files list
 
 - Variations such as recently *changed* file
 

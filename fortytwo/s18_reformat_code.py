@@ -4,6 +4,8 @@ Tell PyCharm to clean up indentation and other code style in your file.
 
 - 3 warnings below
 
+- Could be the janitor
+
 - Reformat Code (``Ctrl-Alt-L`` Win/Linux, ``Alt-Cmd-L`` macOS)
 
 Repo: https://github.com/pauleveritt/42-workshop

@@ -6,11 +6,17 @@ Get your code and tests side-by-side without resorting to tabs.
 
 - Split Vertically
 
-- Alt-Tab to go to next splitter
-
 - Open ``tests/test_examples.py``
 
-- Run tests
+- Run tests via right-click
+
+- "TDD Mode"
+
+- Jump back and forth
+
+    - Recent Files, Navigate to Symbol, or...
+
+    - ``Alt-Tab`` to go to next splitter
 
 Repo: https://github.com/pauleveritt/42-workshop
 Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/

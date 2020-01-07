@@ -4,6 +4,8 @@ Activate the Navigation Bar and create a new file somewhere in the project tree.
 
 - Activate, navigate to where you want to go, Cmd-N
 
+- E.g. Make to-do file in root of project file
+
 - Current directory is easy: activate, down, Cmd-N
 
 Repo: https://github.com/pauleveritt/42-workshop

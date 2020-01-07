@@ -5,7 +5,7 @@ for you.
 
 - Activate navbar, select ``models.py``
 
-- Refactor -> Rename
+- Refactor -> Rename to ``model.py``
 
 - See the import below is changed, as is VCS
 

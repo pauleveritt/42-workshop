@@ -2,7 +2,9 @@
 
 Use the IDE's built-in history facility to recover changes when VCS can't help you.
 
-- Delete main, use Show History to restore
+- Prep: Un-split All, close the Coverage suite
+
+- Delete all of ``main` `, use Show History to restore
 
 - Delete ``models.py``, use Show History to restore
 

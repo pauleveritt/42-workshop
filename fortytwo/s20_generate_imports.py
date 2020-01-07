@@ -2,11 +2,15 @@
 
 Avoid interruption by letting PyCharm generate your imports as you type.
 
-- We want a random customer
+- We want a random customer using ``random.choice``
 
 - Delete 'Larry'
 
-- Type ``choic`` and ``Ctrl-Enter-Enter``
+- Wrong:
+
+    - Go to top of file, type ``from random import choice``, go back
+
+- Type ``cho`` and ``Ctrl-Space-Space``
 
 - Or, type ``choice`` and ``Alt-Enter``
 

@@ -2,11 +2,9 @@
 
 Reduce Clutter by Disabling Tools.
 
-- Hide the Toolbar
+- We are an IDE, but we can also do a lean-and-mean UI
 
-- Hide the Tool Window Bars
-
-- Hide the Project Tool window
+- Hide the Toolbar, Tool Window Bars, Navigation Bar
 
 Repo: https://github.com/pauleveritt/42-workshop
 Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/

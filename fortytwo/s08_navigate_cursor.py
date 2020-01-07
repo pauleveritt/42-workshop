@@ -2,6 +2,8 @@
 
 Easily navigate back to where you were, or where you went.
 
+- Useful for example when debugging, chasing rabbit hole
+
 - Cmd-B on `App`, then `ServiceRegistry`
 
 - Use left/right brackets to return/descend

@@ -3,6 +3,10 @@
 Unselect files or changed regions within files during the commit
 process.
 
+- Add a comment below under ``def main()``
+
+    - Then edit this line in the docstring
+
 - Commit
 
 - De-select some files, remove chunks from some files

@@ -4,6 +4,8 @@ Move around your project tree and select files, from your keyboard, with the Nav
 
 - Left, down, up
 
+- E.g. go to s09
+
 - Current directory doesn't need initial left
 
 Repo: https://github.com/pauleveritt/42-workshop

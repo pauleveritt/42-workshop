@@ -1,4 +1,4 @@
-"""16: Optimize Imports
+"""19: Optimize Imports
 
 Automate the organizing and cleaning up of your Python imports with Optimize Imports.
 
@@ -10,12 +10,14 @@ Automate the organizing and cleaning up of your Python imports with Optimize Imp
 
     - I want multiple per line
 
-- Optimize Imports (``Ctrl-Alt-O`` Win/Linux, ``Ctrl-Alt-O`` macOS)
+- Optimize Imports (``Ctrl-Alt-O`` Win/Linux/macOS)
 
 - Undo/Redo
 
 - Split imports  via
   ``Preferences | Editor | Code Style | Python | Imports``
+
+  - ``Structure of "from" imports`` -> ``Always split imports``
 
 Repo: https://github.com/pauleveritt/42-workshop
 Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/

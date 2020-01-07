@@ -6,11 +6,6 @@ def test_01():
     assert EXPECTED == main()
 
 
-def test_01():
-    from fortytwo.s01_find_action import main
-    assert EXPECTED == main()
-
-
 def test_02():
     from fortytwo.s02_reduce_clutter import main
     assert EXPECTED == main()

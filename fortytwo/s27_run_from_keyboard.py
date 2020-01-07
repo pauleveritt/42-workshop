@@ -1,6 +1,8 @@
 """27: Run From Keyboard
 
-Use the keyboard to select and run a run configuration.
+Use the keyboard to select and run a run configuration, without toolbar.
+
+- Start by running once via gutter icon, to create run config
 
 - Ctrl-R re-runs your *active* run-config
 

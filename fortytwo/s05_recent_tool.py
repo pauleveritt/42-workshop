@@ -6,6 +6,8 @@ From the Recent Files popup, open one of the IDE tool windows.
 
 - Recent Files (Ctrl-E or Cmd-E)
 
+    - Left column shows tools, not files
+
 - Use cursor
 
 - Better: speed type

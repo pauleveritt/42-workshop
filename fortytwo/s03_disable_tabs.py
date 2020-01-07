@@ -2,6 +2,8 @@
 
 Save space and stay keyboard-centric by turning off the tabs.
 
+- Better ways to navigate code than lots-of-open-tabs
+
 - Preferences | Editor | General | Editor Tabs | Placement -> None
 
 - Or Find Action, wi pl no -> Enter

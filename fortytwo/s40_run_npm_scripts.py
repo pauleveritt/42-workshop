@@ -5,9 +5,11 @@ window.
 
 - Right-click on ``package.json`` and select ``Show npm scripts``
 
-- Close that panel, re-do from ``Recent Files``
+- Or, close that panel, re-do from ``Recent Files``
 
-- Find Action | ``run ser``
+- Or, open ``package.json``
+
+- Orm, ``Find Action`` | ``run serve``
 
 Repo: https://github.com/pauleveritt/42-workshop
 Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/

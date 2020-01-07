@@ -1,10 +1,11 @@
 """33: Spot Coverage Gaps Using the Gutter
 
-Let the IDE help you spot coverage gaps in your testing.
+Let the IDE help you spot coverage gaps in your testing. *Note: Requires
+PyCharm Professional.*
 
 - Run tests, but under coverage
 
-- Spot the gap in ``foo``
+- Spot the coverage gap in ``def foo``
 
 Repo: https://github.com/pauleveritt/42-workshop
 Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/

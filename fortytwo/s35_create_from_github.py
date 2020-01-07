@@ -6,6 +6,8 @@ Let PyCharm do the work to clone and setup a project hosted on GitHub.
 
 - Or via Find Action ``ch ve``
 
+- Speed search for ``wired``
+
 Repo: https://github.com/pauleveritt/42-workshop
 Playlist: https://www.jetbrains.com/pycharm/guide/playlists/42/
 """
